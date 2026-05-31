@@ -27,7 +27,7 @@ Welcome to **Codebase Assistant**, your AI-powered tool to explore and understan
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/your-username/codebase-assistant.git
+git clone https://github.com/Sayanth789/codebase-assistant.git
 cd codebase-assistant
 ```
 ## Install dependencies (recommended in a virtual environment):
